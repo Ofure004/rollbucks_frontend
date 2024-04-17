@@ -28,7 +28,7 @@ export const OrgDashboard = () => {
                         </div>
                     </div>
                     <div className='w-1/3 p-4 flex border-2 gap-x-2 items-center border-white-500 rounded-lg'>
-                        <img src={stats} className="w-[24px]" ></img>
+                        <img src={stats} className="w-[24px]"></img>
                         <div className='w-2/4 flex flex-col'>
                             <p className="font-body text-[12px] opacity-50 m-0" >Total Sales</p>
                             <p className='font-body text-[24px] font-semibold m-0'>$800,250</p>
