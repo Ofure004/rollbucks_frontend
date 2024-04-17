@@ -59,7 +59,7 @@ export const Login = () => {
                         <div className="my-7"></div>
 
                         <input
-                            onClick={() => { }}
+                            onClick={() => {}}
                             type="submit"
                             value="Submit"
                             className="mt-2 p-4 rounded-md font-display text-sm text-white-400 bg-black-400"

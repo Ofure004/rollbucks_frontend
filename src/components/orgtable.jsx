@@ -46,7 +46,7 @@ export default function BasicTable() {
           <TableRow>
             <TableCell align="center" className='opacity-50'>Employee details</TableCell>
             <TableCell align="center" className='opacity-50'>Job Role</TableCell>
-            <TableCell align="center" className='opacity-50'>Pay Rate(in ICP)</TableCell>
+            <TableCell align="center" className='opacity-50'>Pay Rate(in USDC)</TableCell>
             <TableCell align="center" className='opacity-50'>Last pay date</TableCell>
             <TableCell align="center" className='opacity-50'>Next pay date</TableCell>
             <TableCell align="center" className='opacity-50'>pay individually</TableCell>
