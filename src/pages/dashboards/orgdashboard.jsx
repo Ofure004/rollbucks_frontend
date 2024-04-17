@@ -21,7 +21,7 @@ export const OrgDashboard = () => {
                         <img src={wallet} className="w-[24px]" ></img>
                         <div className='w-2/4 flex flex-col'>
                             <p className="font-body text-[12px] opacity-50 m-0" >Total Income</p>
-                            <p className='font-body text-[24px] font-semibold m-0'>3,000,650 ICP</p>
+                            <p className='font-body text-[24px] font-semibold m-0'>$3,000,650</p>
                         </div>
                         <div className="w-2/4 h-full" >
                             <Example2/>
