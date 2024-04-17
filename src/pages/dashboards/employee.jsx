@@ -38,7 +38,7 @@ export const EmployeeDashboard = () => {
             <div className=" text-[12px] w-1/3 flex flex-col bg-slate-50 rounded-[10px] p-4">
                 <p>Available Balance</p>
                 <div className="flex justify-between">
-                    <p className="text-[28px] font-bold">100.245 ICP</p>
+                    <p className="text-[28px] font-bold">100.245 USDC</p>
                     <img src={convert} className="w-8"></img>
                 </div>
                 <div><img src={dolls} className="w-20"></img></div>
